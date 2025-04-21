@@ -1,0 +1,20 @@
+Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- For any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by-nd/4.0/
+
+This license applies to all files in this repository, including:
+- Structural formula and mathematical content
+- Diagrams, variable definitions, and trajectory functions
+- Authorship declarations and timestamp records
+
+Author: Hanfoong Soo (2025)
