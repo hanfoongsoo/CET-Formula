@@ -1,0 +1,19 @@
+CET Structural Timestamp Record
+────────────────────────────────────────
+
+Project: CET Formula – Cognition × Execution × Time
+Discoverer: Hanfoong Soo
+Date of structural formulation: March 2025
+
+This file serves as a timestamped record of the structural authorship and mathematical formulation of the CET model.
+
+Arweave Transaction ID (Proof of Publication):
+<TO BE FILLED AFTER UPLOAD>
+
+Timestamp:
+<TO BE FILLED AFTER UPLOAD>
+
+Included files:
+- Strict_Mathematical_Formulation_and_Proof_of_the_CET_Formula.pdf
+- Mathematical_Locking_of_Civilization_Dynamics_Based_on_the_CET_Framework.pdf
+- Structural_Attribution.pdf
