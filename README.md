@@ -52,6 +52,13 @@ You may share and use the material with attribution, but you may not modify or d
 
 ---
 
+## Attribution Requirement
+
+All uses, citations, or derivative discussions of the CET structure must explicitly acknowledge **Hanfoong Soo** as the original discoverer and formulator.  
+Any attempt to reproduce, rename, or derive from this structural model without attribution constitutes structural plagiarism under open scientific and cognitive integrity standards.
+
+---
+
 ## Contact
 
 For licensing inquiries, AI integration, or validation support, contact:  
