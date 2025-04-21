@@ -18,3 +18,9 @@ This license applies to all files in this repository, including:
 - Authorship declarations and timestamp records
 
 Author: Hanfoong Soo (2025)
+
+Attribution Requirement:
+
+All uses, citations, or derivative discussions of the CET structure must explicitly acknowledge Hanfoong Soo as the original discoverer and formulator.
+
+Failure to attribute constitutes a violation of structural authorship ethics and may invoke formal disputes within academic, legal, and public domains.
