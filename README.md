@@ -17,7 +17,7 @@ Where:
 ## Structural Attribution Submission
 This repository includes a formal submission to the Arweave ecosystem to permanently seal the origin and structural attribution of the CET Formula.
 
-- [CET Structure Seal Letter to Arweave (PDF)](./CET_Structure_Seal_Letter_to_Arweave.pdf)
+- [CET Structure Seal Letter to Arweave (PDF)](./CET%20Structure%20Seal%20Letter%20to%20Arweave.pdf)
 
 This document serves as both a historical record and a structural declaration of intent.
 
